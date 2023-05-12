@@ -1,0 +1,39 @@
+.food-name-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.food-name {
+    display: flex;
+    flex-direction: row;
+}
+.food-name-figure{
+    display: flex;
+    box-sizing: border-box;
+    width: 15px;
+    height: 14px;
+    left: 25px;
+    top: 159px;
+
+    background: #FFFFFF;
+    border: 1.5px solid #2D9737;
+    border-radius: 3px;
+}
+.food-name span{
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.food-name-ingredients{
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: rgba(0, 0, 0, 0.64);
+    text-align: left;
+}

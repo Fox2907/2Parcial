@@ -1,10 +1,10 @@
-import ButtonAdd from './components/ButtonAdd'
+import { FoodName } from './components/FoodName'
 import './App.css'
 
 function App() {
   return (
     <div>
-      <ButtonAdd/>
+      <FoodName/>
     </div>
   )
 }
