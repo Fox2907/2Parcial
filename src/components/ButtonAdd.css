@@ -1,0 +1,19 @@
+.button-add{
+    display: flex;
+}
+
+.button-add button {
+    display: flex;
+    height: 28px;
+    width: 56px;
+    border-radius: 2px;
+    background-color: #B82323;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    font-style: normal;
+    color: #FFFFFF;
+    font-family: 'Readex Pro', sans-serif;
+    justify-content: center;
+    align-items: center;
+}
